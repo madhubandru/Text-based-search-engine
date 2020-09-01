@@ -2,7 +2,7 @@
 
 This project repository include below files/folders.
 
-<b>1.file4.csv :</b> This is the data file, where we have cleaned data. It consist of 50 records with below fileds.<br>
+<b>1.file4.csv :</b> This is the data file, where we have cleaned data. It consist of 50 records with below fileds.<br><br>
     1. book_id<br>
     2. bookname<br>
     3.author_id<br>
@@ -29,7 +29,7 @@ This project repository include below files/folders.
 
 <b>11. cosine_similarity.py :</b> This pyhton file is used to process a input query provided by user and provide the results that matching the query.
 
-<b>12. preprocess_data.py :</b> This python file is used to process both input data file and input provided by user query. Following functions are included in this file.<br>
+<b>12. preprocess_data.py :</b> This python file is used to process both input data file and input provided by user query. Following functions are included in this file.<br><br>
     1.lower case conversion<br>
     2.stop words removal<br>
     3.removing punctuations<br>
